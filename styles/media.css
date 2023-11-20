@@ -1,0 +1,15 @@
+@media only screen and (max-width: 1024px) {
+    .banner {
+        object-fit: fill;
+        height: 606px;
+        width: 1440px;
+    }
+
+    .right-side {
+        display: flex;
+        margin: 0 auto;
+  }
+    .left-side {
+        margin-left: 88px;
+ }
+}
