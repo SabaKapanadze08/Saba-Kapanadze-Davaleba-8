@@ -50,6 +50,7 @@
   
   .left-side {
     width: 235px;
+    min-width: 235px;
     margin-right: 150px;
   }
   
@@ -61,7 +62,7 @@
   }
   
   .card {
-    width: 286px;
+    width: 250px;
     height: 312px;
     margin-bottom: 56px;
   }
@@ -120,3 +121,6 @@
     line-height: normal;
   }
   
+  .line3 {
+    display: none;
+  }
